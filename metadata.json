@@ -1,0 +1,8 @@
+{
+  "name": "ThaiSar · သင်တန်းရွေးချယ်ရန်",
+  "description": "ThaiSar Thai Language School course enrollment and class selection application.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

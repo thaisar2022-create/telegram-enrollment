@@ -1,11 +1,18 @@
-<div align="center">
+# ThaiSar Enrollment Portal
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+A React and TypeScript application for ThaiSar (ထိုင်းဘာသာစကားသင်တန်းကျောင်း) course selection and enrollment.
 
-  <h1>Built with AI Studio</h2>
+## Features
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+- **Course Selection**: Interactive selection between class formats:
+  - Zoom Face to Face
+  - Yangon In-Person (ရန်ကုန်အပြင်သင်တန်း)
+  - Mandalay In-Person (မန္တလေးအပြင်သင်တန်း)
+  - One on One (One on One အတန်း)
+- **Status Updates**: Real-time accessible status announcements and visual feedback.
+- **Responsive & Accessible**: Mobile-optimized layout with full keyboard accessibility, ARIA attributes, and reduced motion support.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## Development
 
-</div>
+- `npm run dev` - Starts the Vite development server on port 3000
+- `npm run build` - Builds production bundle with TypeScript check
